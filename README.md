@@ -1,6 +1,6 @@
 # shotitdown
 
-1. Download the executable jar file
+1. Download the executable jar file (the one with dependencies)
 2. Set the files' permissions to allow executing of the file
 3. Run ShotItDown as follows: `java -jar ShotItDown.jar`
 4. You should have now a icon in the systray. Click on it with right mouse button. Select `Grab a screenshot` by clicking on the menuitem.

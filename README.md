@@ -1,5 +1,7 @@
 # shotitdown
 
+Tested on Windows, Linux, OSX
+
 1. Download the executable jar file (the one with dependencies)
 2. Set the files' permissions to allow executing of the file
 3. Run ShotItDown as follows: `java -jar ShotItDown.jar`
